@@ -7,11 +7,6 @@ A PDF Question Answering chatbot built using:
 - HuggingFace Embeddings
 - Groq LLM
 
-## Run locally
-
-```bash
-pip install -r requirements.txt
-streamlit run chatbot.py
 
 ---
 
